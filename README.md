@@ -54,15 +54,12 @@ DBMS-Online-Shopping-Management-System/
 
 📁 Project Files
 SQL
-
 The sql/Project.sql file contains the SQL database implementation.
 
 Screenshots
-
 The screenshots/ folder contains screenshots of the database, tables, and SQL query results.
 
 Report
-
 The report/ folder contains the complete DBMS project report.
 
 🔍 SQL Operations
@@ -102,6 +99,7 @@ SQL queries and their results
 ------
 👩‍💻 Authors
 Anzal Azam Shaikh
+&
 Nadia Shaikh
 
 ----
